@@ -104,7 +104,7 @@ collections:
 author:
   name   : "Alexander Homeyer"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "short bio line"
+  bio    : "Game Developer, 3D Artist, Level Designer, Animator"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
