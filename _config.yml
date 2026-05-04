@@ -2,7 +2,7 @@
 # ⚙️ Site Settings
 # -----------------------------------------------------------------------------
 
-title: Home
+title: Alexander Homeyer
 email: ahomeyer2003@gmail.com
 description: >-
   short description of the site
@@ -40,7 +40,7 @@ words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: "Alexander Homeyer"
+masthead_title: "Home"
 
 # Defaults for Posts and Pages
 defaults:
