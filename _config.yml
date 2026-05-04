@@ -9,7 +9,7 @@ description: >-
 
 # Branding & Social
 twitter_username: 
-github_username:  
+github_username: AlexHomeyer
 
 # -----------------------------------------------------------------------------
 # 🛠️ Build Settings
@@ -34,13 +34,13 @@ plugins:
 # -----------------------------------------------------------------------------
 
 minimal_mistakes_skin: "default"
-site_author: "Your Name"
+site_author: "Alexander Homeyer"
 paginate: 5
 words_per_minute: 200
 
 # Masthead (Top Navigation) Settings
 logo: 
-masthead_title: "Site Title"
+masthead_title: "Alexander Homeyer"
 
 # Defaults for Posts and Pages
 defaults:
@@ -103,7 +103,7 @@ collections:
 
 author:
   name   : "Alexander Homeyer"
-  avatar : "/assets/images/blank-profile-picture"
+  avatar : "/assets/images/headshot"
   bio    : "short bio line"
   links:
     - label: "LinkedIn"

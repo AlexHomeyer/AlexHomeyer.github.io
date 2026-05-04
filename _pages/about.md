@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Page Title"
+title: "Alexander Homeyer"
 permalink: /about/
 author_profile: true
 ---
