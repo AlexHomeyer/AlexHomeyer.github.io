@@ -103,7 +103,7 @@ collections:
 
 author:
   name   : "Alexander Homeyer"
-  avatar : "/assets/images/headshot"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "short bio line"
   links:
     - label: "LinkedIn"
