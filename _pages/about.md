@@ -5,6 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-Page content goes here ...
+<!-- Page content goes here ... -->
 
 
