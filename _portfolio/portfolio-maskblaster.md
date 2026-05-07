@@ -27,3 +27,4 @@ Weapons will be the prime focus; players will need to combo 4 weapons to crank a
 
 ### Resources
 - [Download Mask Blaster](https://damp-weasel.itch.io/mask-blaster)
+- [Global Game Jam 2026](https://globalgamejam.org/games/2026/mask-blaster-2)
