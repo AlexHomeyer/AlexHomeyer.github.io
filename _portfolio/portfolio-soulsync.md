@@ -4,7 +4,7 @@ excerpt: "Third-person fantasy/cyberpunk multiplayer roguelike"
 
 header:
   overlay_image: /assets/images/soulsync.png
-  teaser: 
+  teaser: /assets/images/soulsync.png
   overlay_filter: 0.5
 
 project_brief: "Year-long Computer Simulation and Gaming (CSG) senior project"
@@ -24,4 +24,4 @@ Now a party of five, the survivors flee, with some holding onto the fading hope 
 Their path leads to an ancient forge swarmed by hostile company subordinates. At its heart, they find the architect of their demise: a company board member who intends to weaponize the party's curse.  After revealing the captive former leader, the board member attempts a final execution to tie up the project's loose ends. Still, the party triumphs in the end, escaping the company's grasp and rescuing their imprisoned comrade.
 
 ### Resources
-- [Download Soulsyn](https://rjp5546.itch.io/soulsync)
+- [Download Soulsync](https://rjp5546.itch.io/soulsync)
