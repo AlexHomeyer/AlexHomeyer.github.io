@@ -3,23 +3,17 @@ title: "Beretta Pistol - Game Ready Model"
 excerpt: "Beretta 3D model made for high-detail FPS"
 
 header:
-  overlay_image: 
+  overlay_image: /assets/images/beretta.png
   teaser: 
   overlay_filter: 0.5
 
-project_brief: "Pistol model"
+project_brief: "Game ready model"
 project_role: "3D modeler, texture artist"
 project_tools: "Blender"
-project_date: "5/1/2025"
+project_date: "05/01/2025"
 ---
-## Heading 
-Beretta
-
-"/assets/images/beretta"
-
-<!-- ## External Assets & Libraries
-- List out external assets and licences 
---- -->
+## About 
+I created this beretta model for an upcoming horror game I am developing.
 
 ### Resources
-- "ArtStation Post""https://www.artstation.com/artwork/bgEP2o"
+- [ArtStation Post](https://www.artstation.com/artwork/bgEP2o)
