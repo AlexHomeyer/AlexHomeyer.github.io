@@ -4,7 +4,7 @@ excerpt: "PvE arena shooter"
 
 header:
   overlay_image: /assets/images/mask.png
-  teaser: 
+  teaser: /assets/images/mask.png
   overlay_filter: 0.5
 
 project_brief: "Create a game in under 48 hours utilizing the them 'Mask'."

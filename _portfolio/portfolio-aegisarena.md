@@ -4,7 +4,7 @@ excerpt: "Arena level for Aegis"
 
 header:
   overlay_image: /assets/images/aegisoverview.jpg
-  teaser: 
+  teaser: /assets/images/aegisoverview.jpg
   overlay_filter: 0.5
 
 project_brief: "Create an endless arena for a first-person PvE shield-basher"

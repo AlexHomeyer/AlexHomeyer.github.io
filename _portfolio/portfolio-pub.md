@@ -4,7 +4,7 @@ excerpt: "Pub scene modeled and textured in Blender"
 
 header:
   overlay_image: /assets/images/pub.jpg
-  teaser: 
+  teaser: /assets/images/pub.jpg
   overlay_filter: 0.5
 
 project_brief: "Rendered scene showing 3D modeling and texturing"

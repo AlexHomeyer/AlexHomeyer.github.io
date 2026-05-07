@@ -4,7 +4,7 @@ excerpt: "Level 1 boss model for Soulsync"
 
 header:
   overlay_image: /assets/images/fairyking.png
-  teaser: 
+  teaser: /assets/images/fairyking.png
   overlay_filter: 0.5
 
 project_brief: "Modeled, textured, and animated boss for roguelike"

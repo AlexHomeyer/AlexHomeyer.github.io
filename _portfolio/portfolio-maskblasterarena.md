@@ -4,7 +4,7 @@ excerpt: "Arena level for Mask Blaster"
 
 header:
   overlay_image: /assets/images/maskblasteroverview.jpg
-  teaser: 
+  teaser: /assets/images/maskblasteroverview.jpg
   overlay_filter: 0.5
 
 project_brief: "Create an endless arena for an first-person PvE arena shooter"

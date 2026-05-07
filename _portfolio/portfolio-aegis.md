@@ -4,7 +4,7 @@ excerpt: "PvE arena shield-basher"
 
 header:
   overlay_image: /assets/images/aegis.png
-  teaser: 
+  teaser: /assets/images/aegis.png
   overlay_filter: 0.5
 
 project_brief: "Create a game in under two weeks utilizing the theme 'consciousness and identity through awe and wonder'."

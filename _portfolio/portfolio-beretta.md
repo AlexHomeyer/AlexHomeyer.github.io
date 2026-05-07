@@ -4,7 +4,7 @@ excerpt: "Beretta 3D model made for high-detail FPS"
 
 header:
   overlay_image: /assets/images/beretta.png
-  teaser: 
+  teaser: /assets/images/beretta.png
   overlay_filter: 0.5
 
 project_brief: "Game ready model"
