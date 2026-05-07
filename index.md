@@ -76,10 +76,10 @@ map_row:
 
 # 3D Models
 
-{% include render_row %}
+{% include feature_row id="render_row" %}
 
 ---
 
 # Level Design
 
-{% include map_row %}
+{% include feature_row id="map_row" %}
